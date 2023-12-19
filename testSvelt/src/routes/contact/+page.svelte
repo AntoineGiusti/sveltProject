@@ -7,7 +7,7 @@
     
     <div class="row">
         <div class="col-6">
-            <a href="/">accueil</a>
+            <a href="/">Accueil</a>
         </div>
         <div class="row">
             <a href="/about">A propos</a>
@@ -16,7 +16,12 @@
 </div>
 
 <style>
-h1{
-    align-items: center;
+a:hover{
+    color:red;
+    text-decoration:none;
+}
+
+a{
+    color: black;
 }
 </style>

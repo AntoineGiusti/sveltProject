@@ -15,5 +15,12 @@
 </div>
 
 <style>
+a:hover{
+    color:red;
+    text-decoration:none;
+}
 
+a{
+    color: black;
+}
 </style>
