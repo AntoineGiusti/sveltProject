@@ -9,7 +9,7 @@
         <div class="col-6">
             <a href="/">Accueil</a>
         </div>
-        <div class="row">
+        <div class="col-6">
             <a href="/about">A propos</a>
         </div>
     </div>  
@@ -26,6 +26,9 @@ a:hover{
 }
 
 a{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
     color: black;
 }
 
