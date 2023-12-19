@@ -26,6 +26,7 @@ a:hover{
 }
 
 a{
+    text-decoration:none;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: bold;
