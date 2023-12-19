@@ -16,6 +16,10 @@
 </div>
 
 <style>
+h1{
+    margin-top: 25px;
+}
+
 a:hover{
     color:red;
     text-decoration:none;
@@ -23,5 +27,16 @@ a:hover{
 
 a{
     color: black;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-style: bold;
+    font-size: 18px;
+}
+
+.col-6{
+    margin-bottom: 35px;
+    margin-top: 35px;
 }
 </style>
