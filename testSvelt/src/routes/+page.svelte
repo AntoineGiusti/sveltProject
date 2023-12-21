@@ -1,5 +1,4 @@
 <script lang="ts">
-    import { Image } from 'sveltestrap';
 </script>
 
 <div class="container">
@@ -28,7 +27,7 @@
                 Curabitur quis nisl hendrerit, laoreet sem at, porta libero. Morbi quis justo vel lacus commodo blandit sit amet ut nisi. Ut bibendum aliquet commodo. Ut dapibus eros tortor, a sollicitudin lectus venenatis vitae. Morbi sed lacus eu ante sollicitudin auctor placerat porta ante. Nullam libero lacus, lobortis pharetra bibendum eget, vulputate id dui. Cras ut vehicula diam, ac ullamcorper ligula. Nulla sed vehicula lorem. Mauris nec lacus imperdiet, lacinia turpis eget, mattis urna. Suspendisse pretium mauris vel eros eleifend dictum. Nullam tempus porta accumsan. Cras et risus eget velit interdum interdum sed non nisl. </p>
         </div>
         <div class="col-6">
-            <Image alt="Landscape" src="https://picsum.photos/id/426/400/600.jpg" />
+            <img alt="market" src="../src/assets/img/market.jpg" />
         </div>
     </div>
 </div>
